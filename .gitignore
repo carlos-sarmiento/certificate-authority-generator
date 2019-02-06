@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!clear-all.sh
+!genCert.sh
+!genIntermediateCA.sh
+!genRootCA.sh
+!prep.sh
+!README.md
+!openssl.cnf.intermediate.template
+!openssl.cnf.root.template
+!pack.sh
