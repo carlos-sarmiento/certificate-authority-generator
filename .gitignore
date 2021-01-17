@@ -10,3 +10,4 @@
 !openssl.cnf.intermediate.template
 !openssl.cnf.root.template
 !pack.sh
+!reconfigure.sh
